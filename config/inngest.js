@@ -1,4 +1,3 @@
-import { EmailLinkErrorCodeStatus } from "@clerk/nextjs/dist/types/client-boundary/hooks";
 import { Inngest } from "inngest";
 
 // Create a client to send and receive events

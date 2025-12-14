@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.36.2",
+    "@typescript-eslint/eslint-plugin": "^8.49.0",
+    "@typescript-eslint/parser": "^8.49.0",
+    "inngest": "^3.47.0",
     "mongoose": "^9.0.1",
     "next": "^16.0.10",
     "react": "^19.2.1",
@@ -18,6 +21,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/debug": "^4.1.12",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
